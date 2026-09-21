@@ -17,7 +17,7 @@ endpoint by endpoint and flags the paths that survive automated optimisation.
 | Tightened clock | after CTS | −0.0954 | −0.4469 | 9 | +0.4274 |
 | Tightened clock | signoff | **−0.0553** | **−0.0747** | **2** | +0.4301 |
 
-Clock period: reference **TODO ns**, tightened **TODO ns**.
+Clock period: reference **10.00 ns**, tightened **09.00 ns**.
 
 **What this shows**
 
